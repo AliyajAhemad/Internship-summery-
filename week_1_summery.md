@@ -1,7 +1,7 @@
-# 1)ALIYAJ AHEMAD
+# ALIYAJ AHEMAD
 ## I What i learned  
 
-## I Docker Engine and Docker Compose
+### Docker Engine and Docker Compose
 
 - Understood Basics of Docker and Docker Compose.
 - Advantages of docker container over VMware 
@@ -10,17 +10,17 @@
 - Architecture
 - Docker file
 
-## Heroku
+### Heroku
 
 - What and how to use 
 - Deployed w3clone webpage Heroku as a php app .
 
-## w3clone
+### w3clone
 - Created Clone page of w3school websites Home page.
 - languages used HTML and CSS.
 
-## Markdown 
-- Learned about Markdown language.
+### Markdown 
+- Learnt about Markdown language.
 - How and Where to use.
 
 ## II Achievements
@@ -30,8 +30,9 @@
 
 # Challanges
 - Very difficult to understand that Which app Heroku Supports as a begginner so searched a lot to figure out that how to deploy simple html page on to Heroku as php app .
-  
-# 2)ATHENA
+
+---
+# ATHENA
 
 ## What she learned (information provided by ATHENA)
 - Learnt about using github effectively.
@@ -45,7 +46,9 @@
 - Responsiveness
 - CSS alignment and styling and using bootstrap.
 
-# 3)JOSHUA FERNANDES
+
+---
+# JOSHUA FERNANDES
 
 ## What he learned (information provided by JOSHUA)
 
@@ -60,7 +63,8 @@
 ## Challanges
 - Faced problems while styling footer and side nav bar using CSS.
 
-# 4)GERMANO D'COSTA
+---
+# GERMANO D'COSTA
 
 ## I What he learned (information provided by GERMANO)
 
@@ -76,6 +80,7 @@
 ## III Challanges
 - Challanges were using css and bootstrap attributes.
 
+---
 
 # Challanges faced by team 
 - As new to github faced many problems with sharing and merging of files. 
